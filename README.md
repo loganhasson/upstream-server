@@ -33,8 +33,8 @@ actually are implementing. No pie-in-the-sky-never-gonna-happen stuff.
 
 ## Author
 
-Link to your blog, twitter, etc!
+[@loganhasson](http://twitter.com/loganhasson)
 
 ## License
 
-My Spiffy App is MIT Licensed. See LICENSE for details.
+Upstream Server is MIT Licensed. See LICENSE for details.
